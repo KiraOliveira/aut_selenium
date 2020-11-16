@@ -20,3 +20,19 @@ Passos que foram seguidos:
     Geckodriver - https://github.com/mozilla/geckodriver/releases
     Comandos usados - tar xvvf geckodriver-v0.26.0-linux64.tar.gz , sudo cp geckodriver /usr/local/bin
 - Docker - https://docs.docker.com/engine/install/ubuntu/
+
+
+15/11 - Primeiros Scripts de Testes.
+
+Créditos para https://www.javatpoint.com/selenium-python e Dunossauro https://www.youtube.com/watch?v=Pax0jiAcTWs&t=784s&ab_channel=EduardoMendes
+
+Comecei com um simples:
+
+1 - Import;
+2 - Abrir o navegador;
+3 - Maximizar;
+4 - Acessar o Google;
+5 - Buscar o site solicitado;
+6 - Fechar o navegador.
+
+Usei o Chrome nesse início.
